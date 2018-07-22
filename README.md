@@ -5,7 +5,7 @@
 ![Alt Text](https://github.com/aakashrai1/Attendance-using-facial-recognition/blob/master/demo/out.gif)
 
 
-##Background
+## Background
 
 The idea behind this project is to use AI to detect a person's face and mark his/her attendance.
 (I expect this to be used heavily in the future)
@@ -48,7 +48,7 @@ The command will start the webcam and it will start detecting faces.
 ![image](/screenshots/Report.png)
 > Report
 
-![image](/screenshots/Report.png)
+![image](/screenshots/ConfusionMatrix.png)
 > Confusion Matrix
 
 
